@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "iostream": "cpp"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "Google"
+}

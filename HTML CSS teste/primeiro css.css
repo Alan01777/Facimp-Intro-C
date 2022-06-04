@@ -1,0 +1,16 @@
+p {
+    color: rgb(0, 17, 255);
+    font-style: italic;
+    font-size: x-large;
+}
+
+h1 {
+	font-style: italic;
+    color: rgb(51, 255, 0);
+    font-size: small;
+}
+h2{
+    color: rgb(255, 0, 0);
+    font-style: oblique;
+    font-size: large;
+}
